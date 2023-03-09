@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD7F6A05-292B-48B3-AB2F-2072F89E76DB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixIOS/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - fbb607c06f0122f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.synopsisLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - 86558dafd5414dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.synopsisLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - 5cb14b1146a51bb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - f815ef1b28f34adf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - 86a35745b8c797a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlixIOS.MovieCell"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "82D06076-2093-49C1-B6C4-D6DA70226AF6 - f3fc9bc032f02a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixIOS.MovieCell&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixIOS/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - 429cbe3d7036564e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - 4a8f785428877aaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - a286d71d2ff36179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - 46d01d73b3dd7082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - 86a35745b8c79788"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlixIOS.MovieCell"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "2BF6D6F5-B331-4063-AFB6-3F5690962707 - f3fc9bc032f0282"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixIOS.MovieCell&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixIOS/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - 6ace38e8e3999411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.posterView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - 5d44264241114f9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.posterView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - 7a39b3e775d8aaac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.posterView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - a1b75224a698a089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.posterView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - 86a35745b8c797ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlixIOS.MovieCell"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "CCCF4792-E8A3-4E59-898F-E9DAA6531252 - f3fc9bc032f02e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixIOS.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixIOS.MovieCell&gt;"
+                  moduleName = "FlixIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/binyamassefa/Desktop/app%20development/FlixIOS/FlixIOS/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
